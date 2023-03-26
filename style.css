@@ -1,3 +1,8 @@
 h1{
     padding: 100px 20px;
 }
+.navbar-brand{
+    padding:0 10px;
+    font-size:xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
