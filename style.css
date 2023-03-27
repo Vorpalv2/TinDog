@@ -9,3 +9,16 @@ h1{
 .navbar-nav{
     padding:0 15px;
 }
+.titleHeading{
+    font-family: Verdana, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+#firstColumn{
+    padding: 40px 45px;
+}
+.IOSDownloadFirst{
+    padding:0px 50px;
+}
+.androidDownloadFirst{
+    padding:0px 50px;
+}
