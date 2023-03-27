@@ -13,22 +13,3 @@ h1{
     font-family: Verdana, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: black;
 }
-#firstColumn{
-    padding: 40px 45px;
-}
-.IOSDownloadFirst{
-    padding:0px 50px;
-}
-.androidDownloadFirst{
-    padding:0px 50px;
-}
-.featuresclass{
-    background-color: palevioletred;
-    padding:10px 15px;
-}
-#features{
-    padding:10px 15px;
-}
-#rowFirst{
-    background-color: palevioletred;
-}
