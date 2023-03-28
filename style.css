@@ -10,8 +10,10 @@ h1{
     padding:0 15px;
 }
 .titleHeading{
-    font-family: Verdana, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: black;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+    size: -3rem;
+    line-height: 1.5;
 }
 .container-fluid{
     padding:3% 15%
