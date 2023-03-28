@@ -1,5 +1,9 @@
 h1{
     padding: 10px 20px;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+    size: -3rem;
+    line-height: 1.5;
 }
 .navbar-brand{
     padding:0 10px;
@@ -8,12 +12,6 @@ h1{
 }
 .navbar-nav{
     padding:0 15px;
-}
-.titleHeading{
-    color:black;
-    font-family: 'Montserrat', sans-serif;
-    size: -3rem;
-    line-height: 1.5;
 }
 .container-fluid{
     padding:3% 15%
