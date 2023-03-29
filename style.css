@@ -10,9 +10,7 @@ h1{
     background-color: #ff4c68;
     color:white;
 }
-.IphoneMockup{ 
-  rotate: 30deg;
-}
+
 
 body{
 font-family: 'Montserrat';
@@ -43,3 +41,8 @@ font-family: 'Montserrat';
 .downloadButton{
     margin: 5% 3% 5% 0%;
 }
+/*Title Image*/
+.IphoneMockup{ 
+    width: 60%;
+    transform:rotate(30deg);
+  }
