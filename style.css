@@ -45,4 +45,19 @@ font-family: 'Montserrat';
 .IphoneMockup{ 
     width: 60%;
     transform:rotate(30deg);
-  }
+}
+#features{
+    padding: 7% 15%;
+}
+.featuresClass{
+    text-align: center;
+    font-family: "Ubuntu";
+    padding:5%
+}
+h3{
+    font-family: "Montserrat";
+    font-size:1.3rem;
+}
+p{
+    color:grey;
+}
