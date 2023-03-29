@@ -39,3 +39,7 @@ font-family: 'Montserrat';
     font-weight:lighter;
 
 }
+/* Download Button */
+.downloadButton{
+    margin: 5% 3% 5% 0%;
+}
