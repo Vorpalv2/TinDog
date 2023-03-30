@@ -67,3 +67,7 @@ p{
 h2{
  font-family: "Ubuntu";
 }
+.featureIcon{
+    font-size:400%;
+    color:#ff4c68;
+}
