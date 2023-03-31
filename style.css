@@ -68,7 +68,8 @@ p{
     color:white;
 }
 h2{
- font-family: "Ubuntu";
+ font-family: "Montserrat";
+ font-weight:100;
  font-size: 2rem;
  line-height: 1.5;
 }
@@ -85,7 +86,7 @@ h2{
     color:#ff4c68;
     font-size: 350%;
 }
-.testimonial-Image{
+.testimonial-image{
     width:10%;
     border-radius: 100%;
     margin:20px;
@@ -98,4 +99,12 @@ h2{
 .pressImage{
     width: 15%;
     margin: 20px 20px 50px;
+}
+/* .testimonial-text{
+    font-family: "Ubuntu";
+} */
+
+em{
+    font-family: "Ubuntu";
+    font-weight: bolder;
 }
