@@ -45,9 +45,14 @@ font-family: 'Montserrat';
 .IphoneMockup{ 
     width: 60%;
     transform:rotate(30deg);
+    z-index: 0;
+    position: relative;
 }
 #features{
     padding: 2% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
 }
 .featuresClass{
     text-align: center;
@@ -113,8 +118,16 @@ em{
     background-color: #ef8172;
     color:white;
 }
-.card-header{
-    background-color: white;
+.headerInRow{
+    margin: 10px;
     color: black;
     font-family: "ubuntu";
+}
+
+#rowFirst{
+    z-index: 0;
+}
+
+#pricing{
+    padding: 10px;
 }
