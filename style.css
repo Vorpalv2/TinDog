@@ -60,6 +60,7 @@ h3{
 }
 p{
     color:grey;
+    font-weight: bold;
 }
 h2{
  font-family: "Montserrat";
@@ -113,10 +114,7 @@ em{
     color:white;
 }
 .card-header{
-    background-color: #ff4c68;
-    color: white;
-}
-.headerparagraph{
-    color: white;
+    background-color: white;
+    color: black;
     font-family: "ubuntu";
 }
