@@ -128,5 +128,14 @@ em{
 #pricing{
     padding: 3% 15%;
     font-family: "ubuntu";
-
+}
+#cta{
+    padding: .01% 15%;
+}
+.footerParagraph{
+    font-family: "ubuntu";
+    font-weight: bold;
+    color:black;
+    padding:1% 15%;
+    font-size: 200%;
 }
