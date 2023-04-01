@@ -1,5 +1,5 @@
 .titleHeading{
-    font-size:3rem;
+    font-size:4rem;
     line-height: 1.5;
 }
 
@@ -42,18 +42,19 @@ font-family: 'Montserrat';
     margin: 5% 3% 5% 0%;
 }
 /*Title Image*/
+
 .IphoneMockup{ 
-    width: 60%;
-    transform:rotate(30deg);
+    width:15%;
+    transform:rotate(25deg);
+    position: absolute;
     z-index: 0;
-    position:relative;
 }
 #features{
     padding: 2% 15%;
     background-color: white;
-    z-index: 1;
     position: relative;
 }
+
 .featuresClass{
     text-align: center;
     font-family: "Ubuntu";
