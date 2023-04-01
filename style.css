@@ -112,3 +112,11 @@ em{
     background-color: #ef8172;
     color:white;
 }
+.card-header{
+    background-color: #ff4c68;
+    color: white;
+}
+.headerparagraph{
+    color: white;
+    font-family: "ubuntu";
+}
