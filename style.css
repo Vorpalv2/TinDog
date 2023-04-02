@@ -1,5 +1,5 @@
 .titleHeading{
-    font-size:3.5rem;
+    font-size:3.2rem;
     line-height: 1.5;
 }
 
@@ -39,7 +39,7 @@ font-family: 'Montserrat';
 }
 /* Download Button */
 .downloadButton{
-    margin: 5% 3% 5% 0%;
+        margin: 5% 3% 5% 0%;
 }
 /*Title Image*/
 
@@ -131,14 +131,19 @@ em{
     font-family: "ubuntu";
 }
 #cta{
-    padding: .01% 15%;
+    background-color: #ff4c68;
+    color:white;
+    padding: 3% 15%;
+    text-align: center;
 }
 .footerParagraph{
+    background-color: #ff4c68;
+    color: white;
     font-family: "ubuntu";
     font-weight: bold;
-    color:black;
-    padding:1% 15%;
+    padding: 7% 15%;
     font-size: 200%;
+    text-align: center;
 }
 
 /*Media Query*/
@@ -158,4 +163,14 @@ em{
 
 #secondColumn{
     text-align:center;
+}
+
+.big-Heading{
+    line-height: 1.5;
+    color: white;
+    font-size: 3rem;
+    padding:3%
+}
+.btn{
+    font-family: "ubuntu";
 }
