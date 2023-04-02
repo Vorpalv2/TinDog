@@ -48,6 +48,7 @@ font-family: 'Montserrat';
     transform:rotate(25deg);
     position: absolute;
     z-index: 0;
+    text-align: center;
 }
 #features{
     padding: 2% 15%;
@@ -138,4 +139,23 @@ em{
     color:black;
     padding:1% 15%;
     font-size: 200%;
+}
+
+/*Media Query*/
+
+@media (max-width:1028px) 
+{
+    .IphoneMockup{
+        position: static;
+        transform :rotate(0);
+        width: 65%;
+        text-align: center;
+    }
+    #title{
+        text-align: center;
+    }    
+}
+
+#secondColumn{
+    text-align:center;
 }
