@@ -131,15 +131,6 @@ em{
     padding: 3% 15%;
     text-align: center;
 }
-.footerParagraph{
-    background-color: #ff4c68;
-    color: white;
-    font-family: "ubuntu";
-    font-weight: bold;
-    padding: 7% 15%;
-    font-size: 200%;
-    text-align: center;
-}
 
 /*Media Query*/
 
@@ -173,4 +164,23 @@ em{
     .navbar-brand{
         font-size: 1rem;
     }
+}
+.footer-Grid{
+    padding:2% 2%;
+    text-align: center;
+    background-color: white;
+
+}
+.footerIcon{
+    margin:7px 7px;
+    color:black;
+}
+#footer{
+    font-family: "ubuntu";
+    padding: 2% 2%;
+    text-align: center;
+}
+.CTA-button{
+    padding: 10px 10px;
+    margin:10px 10px;
 }
